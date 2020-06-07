@@ -2,7 +2,7 @@
 Ecoleta é um projeto da [NVW](https://nextlevelweek.com/) entre os dias 01/06/2020 até 07/06/2020, sobre uma aplicação que interliga o usuário com instituições de coleta de materiais recicláveis.
 
 ## Telas do prjeto
-<img src="./tutorial/screens/screens.jpg">
+<img src="./tutorial/screens/screens.png">
 
 ## Como executar o projeto.
 Utilize o node na versão 12.16.3
